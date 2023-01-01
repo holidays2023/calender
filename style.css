@@ -1,0 +1,50 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.unipad{
+    padding: 0 10%;
+}
+#headcontainer{
+    background-color: brown;
+    width: 100%;
+    height: 125px;
+    padding-top: 5px;
+}
+#headcontainer h1{
+    color: white;
+    text-align: center;
+    font-size: 40px;
+    text-shadow: 4px 4px 10px black;
+    padding: 10px 0;
+}
+table {
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    margin: 10px 0px;
+    width: 100%;
+    font-size: 15px;
+  }
+  
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }
+  #footercontainer{
+    background-color: brown;
+    height: 100px;
+    width: auto;
+  }
+#footercontainer h6{
+    color: white;
+    text-align: center;
+    font-size: larger;
+    text-shadow: 2px 2px 5px black;
+    margin: 10px 0px;
+    padding: 40px 0;
+   }
+
